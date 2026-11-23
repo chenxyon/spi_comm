@@ -1,0 +1,9 @@
+{
+  "name": "spi_comm",
+  "version": "1.0.0",
+  "description": "SPI communication master",
+  "keywords": "spi,comm",
+  "repository": { "type": "git", "url": "https://github.com/chenxyon/spi_comm.git" },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
